@@ -8,6 +8,12 @@
 
 [Features](#features) • [Getting Started](#getting-started) • [Architecture](#architecture) • [Documentation](#documentation)
 
+<a href="https://wastedisposal-kappa.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Demo-View_Dashboard-2E7D32?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+</a>
+
+<br><br>
+
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
 [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
