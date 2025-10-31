@@ -226,6 +226,9 @@ Key Libraries:
 ### Data Flow
 
 1. **IoT Sensors** → Continuously transmit fill levels, odor index, location
+
+<img width="765" height="560" alt="image" src="https://github.com/user-attachments/assets/fa8a8f6f-ca6f-40a4-af83-2c1f346c8b81" />
+
 2. **Backend** → Aggregates and processes data (currently Google Sheets API)
 3. **Mobile App** → Push notifications, citizen reports, route management
 4. **Web Dashboard** → Real-time visualization, analytics, optimization
